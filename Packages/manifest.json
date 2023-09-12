@@ -1,6 +1,6 @@
 {
   "dependencies": {
-	  "com.fmod.unity": "https://github.com/msklywenn/fmod-for-unity.git?path=Assets/Plugins#project-cache",
+	  "com.fmod.unity": "https://github.com/msklywenn/fmod-for-unity.git?path=Assets/Plugins",
     "com.unity.collab-proxy": "2.0.7",
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.6",
